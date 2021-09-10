@@ -1,0 +1,1 @@
+This is Artur's first Git Project
